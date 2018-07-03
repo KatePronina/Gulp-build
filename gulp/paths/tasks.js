@@ -6,5 +6,6 @@ module.exports = [
 	'./gulp/tasks/watch.js',
 	'./gulp/tasks/concat.js',
 	'./gulp/tasks/html.js',
-	'./gulp/tasks/svgSprite.js'
+	'./gulp/tasks/svgSprite.js',
+	'./gulp/tasks/fonts.js'
 ]

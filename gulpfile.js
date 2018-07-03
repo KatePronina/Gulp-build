@@ -18,6 +18,7 @@ $.gulp.task('default', $.gulp.series(
   'clean',
   $.gulp.parallel(
     'html',
+    'fonts',
     'sass',
     'image',
     'svgSprite',
